@@ -20,8 +20,8 @@ To install the necessary dependencies for this project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-directory>
+    git clone https://github.com/yope-dev/scrap_ranked.git
+    cd scrap_ranked
     ```
 
 2. **Create a virtual environment** (optional but recommended):
@@ -39,12 +39,12 @@ To install the necessary dependencies for this project, follow these steps:
 
 1. **Navigate to the project directory**:
     ```bash
-    cd <your-repo-directory>
+    cd scrap_ranked
     ```
 
 2. **Run the script**:
     ```bash
-    python scraper.py
+    python main.py
     ```
 
 3. **Check the output**:
